@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant/docker":{"type":"virtualbox","guestpath":"/vagrant/docker","hostpath":"E:/Cursos/DOCKER-DIO/docker-projeto2-cluster/docker","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"E:/Cursos/DOCKER-DIO/docker-projeto2-cluster","disabled":false,"__vagrantfile":true}}}
