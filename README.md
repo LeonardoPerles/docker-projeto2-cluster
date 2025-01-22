@@ -1,2 +1,1 @@
-Uso do dockerfile para criação de imagem personalisada mysql e configuração por scripts para conexão com o phpmyadmin; 
-Criação de um cluster swarm com o Vagrant.
+"Criação de um cluster Swarm com o Vagrant; Compartilhamento de pastas entre o host e a VM; Configuração, por meio de scripts e uso do Dockerfile, da criação de uma imagem personalizada do tipo MySQL, além da criação e configuração dos containers MySQL e phpMyAdmin.
